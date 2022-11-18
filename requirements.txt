@@ -1,0 +1,6 @@
+numpy
+pandas
+dash
+dash_bootstrap_components
+matplotlib
+gunicorn
